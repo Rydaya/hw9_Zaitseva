@@ -1,0 +1,21 @@
+.container{
+    padding: 50px 0;
+}
+
+.item{
+    margin: 0 auto;
+    display: flex;
+    max-width: 900px;
+    margin-bottom: 20px;
+}
+.image {
+    max-height: 200px;
+    margin: 0 30px;
+}
+.content{
+    padding: 5% 0;
+    font-size: 18px;
+}
+.title{
+    font-weight: 600;
+}
